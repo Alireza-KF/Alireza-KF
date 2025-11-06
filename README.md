@@ -1,8 +1,8 @@
 # 💫 About Me:
-I work in the front-end field and possess creativity and diligence.<br>I can collaborate well in team settings and am always in search of and learning new information.
+I work in the front-end field and possess creativity and diligence.<br>I can collaborate well in team settings and am always in search of and learning new information.<br>8th place in the International Technology Olympiad
 
 
-## 🌐 Socials:
+## 🌐 Socials:br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/farahani.web?igsh=MTY4aWwwZm5jbHRlZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alireza-farahani-51439a387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29386998) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alireza.farahani123223@gmail.com) 
 
 # 💻 Tech Stack:
