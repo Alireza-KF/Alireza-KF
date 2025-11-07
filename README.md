@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work in the front-end field and possess creativity and diligence.<br>I can collaborate well in team settings and am always in search of and learning new information.<br>8th place in the International Technology Olympiad
+I work in the front-end field and possess creativity and diligence.<br>I can collaborate well in team settings and am always in search of and learning new information.<br>8th place in the International Technology Olympics
 
 
 ## 🌐 Socials:br>
